@@ -67,7 +67,7 @@ Hu, E. J. et al. (2021) – LoRA: Low-Rank Adaptation of LLMs
 
 Streamlit Docs (2023) – Build Fast Frontends for ML
 
-##📌 Acknowledgments
+## 📌 Acknowledgments
 Hugging Face for their pre-trained models and dataset tools
 
 Streamlit for enabling beautiful UIs without frontend complexity

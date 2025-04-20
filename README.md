@@ -49,7 +49,9 @@ Output (Modern):
 
 ## 📚 Dataset
 Name: Shakespearean and Modern English Conversational Dataset
-Link: View on Hugging Face
+
+Link: View on Hugging Face https://huggingface.co/datasets/Roudranil/shakespearean-and-modern-english-conversational-dataset
+
 Description: A parallel corpus of over 2,000 Shakespearean and Modern English sentence pairs. It is ideal for training and evaluating style transfer models in NLP. Each entry includes a translated_dialog (Modern English) and og_response (Shakespearean English).
 
 ## 📖 Bibliography
